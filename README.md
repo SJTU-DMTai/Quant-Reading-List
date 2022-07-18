@@ -6,7 +6,7 @@ Papers for AI + quantitative investment
 
 
 ### Ensemble learning
-
+[[ICDM2020]DoubleEnsemble A New Ensemble Method Based on Sample Reweighting and Feature Selection for Financial Data Analysis](https://ieeexplore.ieee.org/abstract/document/9338413/)
 
 ### Online learning / Incremental learning
 
