@@ -1,7 +1,8 @@
 # Quant-Reading-List
 Papers for AI + quantitative investment
 
-### Deep learning for stock price prediction
+
+### Financial time-series forecasting models
 
 
 ### Ensemble learning
@@ -10,10 +11,7 @@ Papers for AI + quantitative investment
 ### Online learning / Incremental learning
 
 
-### XAI for stock prediction
-
-
-### General time-series forecasting methods
+### XAI for quantitative investment
 
 
 ### Misc
