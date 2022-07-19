@@ -9,6 +9,10 @@ Papers for AI + quantitative investment
 
 [[SIGIR2020] Knowledge Graph-based Event Embedding Framework for Financial Quantitative Investments](https://dl.acm.org/doi/10.1145/3397271.3401427)
 
+[[KDD2017] Stock Price Prediction via Discovering Multi-Frequency Trading Patterns](https://www.eecs.ucf.edu/~gqi/publications/kdd2017_stock.pdf)
+
+[[IJCAI2017] A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction](https://www.ijcai.org/Proceedings/2017/0366.pdf)
+
 ### Ensemble learning
 [[ICDM2020]DoubleEnsemble A New Ensemble Method Based on Sample Reweighting and Feature Selection for Financial Data Analysis](https://ieeexplore.ieee.org/abstract/document/9338413/)
 
