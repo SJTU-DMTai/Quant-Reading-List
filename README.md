@@ -7,6 +7,8 @@ Papers for AI + quantitative investment
 
 [[ICML2021] Temporally Correlated Task Scheduling for Sequence Learning](http://proceedings.mlr.press/v139/wu21e/wu21e.pdf)
 
+[[CIKM2021] AdaRNN: Adaptive Learning and Forecasting for Time Series](https://dl.acm.org/doi/pdf/10.1145/3459637.3482315)
+
 [[SIGIR2020] Knowledge Graph-based Event Embedding Framework for Financial Quantitative Investments](https://dl.acm.org/doi/10.1145/3397271.3401427)
 
 [[KDD2017] Stock Price Prediction via Discovering Multi-Frequency Trading Patterns](https://www.eecs.ucf.edu/~gqi/publications/kdd2017_stock.pdf)
