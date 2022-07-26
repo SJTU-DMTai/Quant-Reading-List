@@ -25,7 +25,8 @@ Papers for AI + quantitative investment
 
 
 ### Misc
-
+[[Ariv2022]HIST: A Graph-based Framework for Stock Trend Forecasting via Mining Concept-Oriented Shared Information](
+https://arxiv.org/pdf/2110.13716.pdf)
 
 
 ## Related Repo
