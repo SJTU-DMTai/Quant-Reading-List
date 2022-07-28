@@ -30,7 +30,7 @@ https://arxiv.org/pdf/2110.13716.pdf)
 
 
 ### Ensemble learning
-[[ICDM2020]DoubleEnsemble A New Ensemble Method Based on Sample Reweighting and Feature Selection for Financial Data Analysis](https://ieeexplore.ieee.org/abstract/document/9338413/)
+[[ICDM2020] DoubleEnsemble A New Ensemble Method Based on Sample Reweighting and Feature Selection for Financial Data Analysis](https://ieeexplore.ieee.org/abstract/document/9338413/)
 
 
 
@@ -51,9 +51,9 @@ https://arxiv.org/pdf/2110.13716.pdf)
 
 ### Misc
 
-[[VLDB2022]METRO: A Generic Graph Neural Network Framework for Multivariate Time Series Forecasting]()
+[[VLDB2022] METRO: A Generic Graph Neural Network Framework for Multivariate Time Series Forecasting](https://zheng-kai.com/paper/vldb_2022_cui.pdf)
 
-[[KDD2021]A Transformer-based Framework for Multivariate Time Series Representation Learning]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467401)
+[[KDD2021] A Transformer-based Framework for Multivariate Time Series Representation Learning]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467401)
 
 
 
