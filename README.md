@@ -53,7 +53,7 @@ https://arxiv.org/pdf/2110.13716.pdf)
 
 [[VLDB2022] METRO: A Generic Graph Neural Network Framework for Multivariate Time Series Forecasting](https://zheng-kai.com/paper/vldb_2022_cui.pdf)
 
-[[KDD2021] A Transformer-based Framework for Multivariate Time Series Representation Learning]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467401)
+[[KDD2021] A Transformer-based Framework for Multivariate Time Series Representation Learning](https://dl.acm.org/doi/pdf/10.1145/3447548.3467401)
 
 
 
