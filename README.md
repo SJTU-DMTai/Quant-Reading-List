@@ -28,6 +28,13 @@ https://arxiv.org/pdf/2110.13716.pdf)
 [[IJCAI2017] A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction](https://www.ijcai.org/Proceedings/2017/0366.pdf)
 
 
+### GNN for Multivariate Time-Series
+[[KDD2021] Dynamic and Multi-faceted Spatio-temporal Deep Learning for Traffic Speed Forecasting]()
+[[KDD2021] Accurate Multivariate Stock Movement Prediction via Data-Axis Transformer with Multi-Level Contexts](https://dl.acm.org/doi/pdf/10.1145/3447548.3467297)
+[[ICLR2021] Discrete Graph Structure Learning for Forecasting Multiple Time Series](https://arxiv.org/pdf/2101.06861.pdf)
+[[arXiv2021] Time Series is a Special Sequence: Forecasting with Sample Convolution and Interaction](https://arxiv.org/pdf/2106.09305.pdf)
+[[NIPS2020] Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting](https://nips.cc/virtual/2020/public/poster_cdf6581cb7aca4b7e19ef136c6e601a5.html)
+
 
 ### Ensemble learning
 [[ICDM2020] DoubleEnsemble A New Ensemble Method Based on Sample Reweighting and Feature Selection for Financial Data Analysis](https://ieeexplore.ieee.org/abstract/document/9338413/)
