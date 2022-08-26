@@ -4,7 +4,7 @@ Papers for AI + quantitative investment
 
 ### Financial time-series forecasting models
 
-[[Ariv2022] HIST: A Graph-based Framework for Stock Trend Forecasting via Mining Concept-Oriented Shared Information](
+[[Arxiv2022] HIST: A Graph-based Framework for Stock Trend Forecasting via Mining Concept-Oriented Shared Information](
 https://arxiv.org/pdf/2110.13716.pdf)
 
 [[AAAI2022] Dynamic Relation Discovery and Utilization in Multi-Entity Time Series Forecasting](https://arxiv.org/abs/2202.10586)
@@ -29,13 +29,23 @@ https://arxiv.org/pdf/2110.13716.pdf)
 
 
 ### GNN for Multivariate Time-Series
+[[KDD2022] Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting](https://dl.acm.org/doi/pdf/10.1145/3534678.3539396)
+
+[[ArXiv2022] Multi-Scale Adaptive Graph Neural Network for Multivariate Time Series Forecasting](https://arxiv.org/pdf/2201.04828.pdf)
+
+[[ArXiv2022] Multivariate Time Series Forecasting with Latent Graph Inference](https://arxiv.org/pdf/2203.03423.pdf)
+
+[[ArXiv2022] Multivariate Time Series Forecasting with Dynamic Graph Neural ODEs](https://arxiv.org/pdf/2202.08408.pdf)
+
 [[KDD2021] Dynamic and Multi-faceted Spatio-temporal Deep Learning for Traffic Speed Forecasting](https://dl.acm.org/pdf/10.1145/3447548.3467275)
 
 [[KDD2021] Accurate Multivariate Stock Movement Prediction via Data-Axis Transformer with Multi-Level Contexts](https://dl.acm.org/doi/pdf/10.1145/3447548.3467297)
 
 [[ICLR2021] Discrete Graph Structure Learning for Forecasting Multiple Time Series](https://arxiv.org/pdf/2101.06861.pdf)
 
-[[arXiv2021] Time Series is a Special Sequence: Forecasting with Sample Convolution and Interaction](https://arxiv.org/pdf/2106.09305.pdf)
+[[ArXiv2021] Time Series is a Special Sequence: Forecasting with Sample Convolution and Interaction](https://arxiv.org/pdf/2106.09305.pdf)
+
+[[IJCAI2021] Residential Electric Load Forecasting via Attentive Transfer of Graph Neural Networks](https://www.ijcai.org/proceedings/2021/0374.pdf)
 
 [[NIPS2020] Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting](https://nips.cc/virtual/2020/public/poster_cdf6581cb7aca4b7e19ef136c6e601a5.html)
 
