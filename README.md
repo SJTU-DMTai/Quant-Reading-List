@@ -37,6 +37,8 @@ https://arxiv.org/pdf/2110.13716.pdf)
 
 [[ArXiv2022] Multivariate Time Series Forecasting with Dynamic Graph Neural ODEs](https://arxiv.org/pdf/2202.08408.pdf)
 
+[[ArXiv2022] Multivariate Time Series Regression with Graph Neural Networks](https://arxiv.org/pdf/2201.00818.pdf)
+
 [[KDD2021] Dynamic and Multi-faceted Spatio-temporal Deep Learning for Traffic Speed Forecasting](https://dl.acm.org/pdf/10.1145/3447548.3467275)
 
 [[KDD2021] Accurate Multivariate Stock Movement Prediction via Data-Axis Transformer with Multi-Level Contexts](https://dl.acm.org/doi/pdf/10.1145/3447548.3467297)
