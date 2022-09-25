@@ -30,6 +30,8 @@ https://arxiv.org/pdf/2110.13716.pdf)
 
 [[AAAI2022] Dynamic Relation Discovery and Utilization in Multi-Entity Time Series Forecasting](https://arxiv.org/abs/2202.10586)
 
+[[AAAI2022] CATN: Cross Attentive Tree-aware Network for Multivariate Time Series Forecasting](https://www.aaai.org/AAAI22Papers/AAAI-7403.HeH.pdf)
+
 [[KDD2022] Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting](https://dl.acm.org/doi/pdf/10.1145/3534678.3539396)
 
 [[ArXiv2022] Multi-Scale Adaptive Graph Neural Network for Multivariate Time Series Forecasting](https://arxiv.org/pdf/2201.04828.pdf)
