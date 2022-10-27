@@ -28,6 +28,12 @@ https://arxiv.org/pdf/2110.13716.pdf)
 
 ### GNN for Multivariate Time-Series
 
+[[KDD2022] Learning the Evolutionary and Multi-scale Graph Structure for Multivariate Time Series Forecasting](https://dl.acm.org/doi/pdf/10.1145/3534678.3539274)
+
+[[ArXiv2022Jan] Multi-Scale Adaptive Graph Neural Network for Multivariate Time Series Forecasting](https://arxiv.org/pdf/2201.04828.pdf) 
+
+[[IJCAI2022] Regularized Graph Structure Learning with Semantic Knowledge for Multi-variates Time-Series Forecasting](https://arxiv.org/pdf/2210.06126.pdf)
+
 [[AAAI2022] Dynamic Relation Discovery and Utilization in Multi-Entity Time Series Forecasting](https://arxiv.org/abs/2202.10586)
 
 [[AAAI2022] CATN: Cross Attentive Tree-aware Network for Multivariate Time Series Forecasting](https://www.aaai.org/AAAI22Papers/AAAI-7403.HeH.pdf)
@@ -76,6 +82,16 @@ https://arxiv.org/pdf/2110.13716.pdf)
 
 
 ### Misc
+
+[[AAAI2022] Event-Aware Multimodal Mobility Nowcasting](https://ojs.aaai.org/index.php/AAAI/article/download/20342/20101)
+
+[[ArXiv2022July] Respecting Time Series Properties Makes Deep Time Series Forecasting Perfect](https://arxiv.org/pdf/2207.10941.pdf)
+
+[[WSDM2022] Structure Meets Sequences: Predicting Network of Co-evolving Sequences](https://dl.acm.org/doi/pdf/10.1145/3488560.3498411)
+
+[[CIKM2022] Retrieval Based Time Series Forecasting](https://arxiv.org/pdf/2209.13525.pdf)
+
+[[ArXiv2022July] Less Is More: Fast Multivariate Time Series Forecasting withLight Sampling-oriented MLP Structures](https://arxiv.org/pdf/2207.01186.pdf)
 
 [[VLDB2022] METRO: A Generic Graph Neural Network Framework for Multivariate Time Series Forecasting](https://zheng-kai.com/paper/vldb_2022_cui.pdf)
 
