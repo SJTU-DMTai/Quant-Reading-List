@@ -81,6 +81,8 @@ https://arxiv.org/pdf/2110.13716.pdf)
 
 ### Misc
 
+[[WWW2021] New Benchmarks for Learning on Non-Homophilous Graphs](https://arxiv.org/pdf/2104.01404.pdf)
+
 [[AAAI2022] Event-Aware Multimodal Mobility Nowcasting](https://ojs.aaai.org/index.php/AAAI/article/download/20342/20101)
 
 [[ArXiv2022July] Respecting Time Series Properties Makes Deep Time Series Forecasting Perfect](https://arxiv.org/pdf/2207.10941.pdf)
