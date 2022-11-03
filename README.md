@@ -72,8 +72,6 @@ https://arxiv.org/pdf/2110.13716.pdf)
 
 [[AAAI2021] Time Series Domain Adaptation via Sparse Associative Structure Alignment](https://ojs.aaai.org/index.php/AAAI/article/view/16846/16653)
 
-[[KDD2021] TimeSHAP: Explaining Recurrent Models through Sequence Perturbations](https://dl.acm.org/doi/pdf/10.1145/3447548.3467166)
-
 ### XAI for quantitative investment
 #### XAI for graph data
 [[ICLR2022] Discovering invariant rationales for graph neural networks](https://arxiv.org/pdf/2201.12872)
@@ -108,6 +106,8 @@ https://arxiv.org/pdf/2110.13716.pdf)
 [[NIPS2020]What went wrong and when? Instance-wise feature importance for time-series black-box models](https://proceedings.neurips.cc/paper/2020/file/08fa43588c2571ade19bc0fa5936e028-Paper.pdf)
 
 [[NIPS2020]Benchmarking Deep Learning Interpretability in Time Series Predictions](https://proceedings.neurips.cc/paper/2020/file/47a3893cc405396a5c30d91320572d6d-Paper.pdf)
+
+[[KDD2021] TimeSHAP: Explaining Recurrent Models through Sequence Perturbations](https://dl.acm.org/doi/pdf/10.1145/3447548.3467166)
 
 
 ### Misc
