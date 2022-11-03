@@ -72,11 +72,42 @@ https://arxiv.org/pdf/2110.13716.pdf)
 
 [[AAAI2021] Time Series Domain Adaptation via Sparse Associative Structure Alignment](https://ojs.aaai.org/index.php/AAAI/article/view/16846/16653)
 
-
+[[KDD2021] TimeSHAP: Explaining Recurrent Models through Sequence Perturbations](https://dl.acm.org/doi/pdf/10.1145/3447548.3467166)
 
 ### XAI for quantitative investment
+#### XAI for graph data
+[[ICLR2022] Discovering invariant rationales for graph neural networks](https://arxiv.org/pdf/2201.12872)
 
+[[CVPR2022] A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_OrphicX_A_Causality-Inspired_Latent_Variable_Model_for_Interpreting_Graph_Neural_CVPR_2022_paper.pdf)
 
+[[KDD2022] Causal Attention for Interpretable and Generalizable Graph Classification](https://dl.acm.org/doi/abs/10.1145/3534678.3539366)
+
+[[ICML2022] Let invariant rationale discovery inspire graph contrastive learning](https://proceedings.mlr.press/v162/li22v/li22v.pdf)
+
+[[ICML2022] Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism](https://proceedings.mlr.press/v162/miao22a/miao22a.pdf)
+
+[[ICLR2021] Graph information bottleneck for subgraph recognition](https://arxiv.org/pdf/2010.05563)
+
+[[AAAI2022] ProtGNN: Towards Self-Explaining Graph Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/download/20898/20657)
+
+[[AAAI2022] Prototype-Based Explanations for Graph Neural Networks](https://www.aaai.org/AAAI22Papers/SA-00396-ShinY.pdf)
+
+[[NIPS2022] CLEAR: Generative Counterfactual Explanations on Graphs](https://arxiv.org/pdf/2210.08443)
+
+[[NIPS2021] Robust Counterfactual Explanations on Graph Neural Networks](https://proceedings.neurips.cc/paper/2021/file/2c8c3a57383c63caef6724343eb62257-Paper.pdf)
+
+[[ICLR2022] Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs](https://openreview.net/pdf?id=pGIHq1m7PU)
+
+[[CIKM2021] Towards Self-Explainable Graph Neural Network](https://arxiv.org/pdf/2108.12055)
+
+[Awesome-graph-explainability-papers](https://github.com/flyingdoog/awesome-graph-explainability-papers)
+
+[Causal Interpretability](https://github.com/fulifeng/Causal_Reading_Group#causal-interpretability)
+
+#### XAI for time series data
+[[NIPS2020]What went wrong and when? Instance-wise feature importance for time-series black-box models](https://proceedings.neurips.cc/paper/2020/file/08fa43588c2571ade19bc0fa5936e028-Paper.pdf)
+
+[[NIPS2020]Benchmarking Deep Learning Interpretability in Time Series Predictions](https://proceedings.neurips.cc/paper/2020/file/47a3893cc405396a5c30d91320572d6d-Paper.pdf)
 
 
 ### Misc
