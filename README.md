@@ -66,6 +66,10 @@ https://arxiv.org/pdf/2110.13716.pdf)
 
 ### Online learning / Incremental learning
 
+[[ICML2022] Online Continual Learning through Mutual Information Maximization](https://proceedings.mlr.press/v162/guo22g/guo22g.pdf)
+
+[[NeurIPS2021] An Information-theoretic Approach to Distribution Shifts](https://proceedings.neurips.cc/paper/2021/file/93661c10ed346f9692f4d512319799b3-Paper.pdf)
+
 [[ICML2022] Domain Adaptation for Time Series Forecasting via Attention Sharing](https://arxiv.org/abs/2102.06828)
 
 [[AAAI2022] DDG-DA: Data Distribution Generation for Predictable Concept Drift Adaptation](https://www.aaai.org/AAAI22Papers/AAAI-10902.WendiL.pdf)
