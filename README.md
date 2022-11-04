@@ -72,7 +72,8 @@ https://arxiv.org/pdf/2110.13716.pdf)
 
 [[AAAI2021] Time Series Domain Adaptation via Sparse Associative Structure Alignment](https://ojs.aaai.org/index.php/AAAI/article/view/16846/16653)
 
-### XAI for graph neural networks
+
+### XAI
 #### XAI for graph data
 [[ICLR2022] Discovering invariant rationales for graph neural networks](https://arxiv.org/pdf/2201.12872)
 
@@ -112,6 +113,8 @@ https://arxiv.org/pdf/2110.13716.pdf)
 
 
 ### Misc
+
+[[ICLR2022] COST: Contrastive learning of disentangled seasonal trend representataions for time series forecasting](https://arxiv.org/pdf/2202.01575.pdf)
 
 [[WWW2021] New Benchmarks for Learning on Non-Homophilous Graphs](https://arxiv.org/pdf/2104.01404.pdf)
 
