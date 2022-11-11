@@ -118,6 +118,8 @@ https://arxiv.org/pdf/2110.13716.pdf)
 
 ### Misc
 
+[[IJCAI2021] Automated Machine Learning on Graphs: A Survey](https://arxiv.org/pdf/2103.00742.pdf)
+
 [[ArXiv2022Mar] Woods: Benchmarks for Out-of-distribution Generalization in Time Series Tasks](https://arxiv.org/pdf/2203.09978.pdf) [[Code]](https://woods-benchmarks.github.io/)
 
 [[KDD2020] Dynamic Knowledge Graph based Multi-Event Forecasting](https://dl.acm.org/doi/10.1145/3394486.3403209)
