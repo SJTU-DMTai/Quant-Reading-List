@@ -118,6 +118,10 @@ https://arxiv.org/pdf/2110.13716.pdf)
 
 ### Misc
 
+[[ArXiv2022Mar] Woods: Benchmarks for Out-of-distribution Generalization in Time Series Tasks](https://arxiv.org/pdf/2203.09978.pdf) [[Code]](https://woods-benchmarks.github.io/)
+
+[[KDD2020] Dynamic Knowledge Graph based Multi-Event Forecasting](https://dl.acm.org/doi/10.1145/3394486.3403209)
+
 [[ICLR2022] COST: Contrastive learning of disentangled seasonal trend representataions for time series forecasting](https://arxiv.org/pdf/2202.01575.pdf)
 
 [[WWW2021] New Benchmarks for Learning on Non-Homophilous Graphs](https://arxiv.org/pdf/2104.01404.pdf)
