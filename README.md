@@ -4,6 +4,26 @@ Papers for AI + quantitative investment
 
 ### LLM for financial data analytics
 
+[[ICAIF2023] Enhancing Financial Sentiment Analysis via Retrieval Augmented Large Language Models](https://arxiv.org/abs/2310.04027)
+
+[[EMNLP2023] Are ChatGPT and GPT-4 General-Purpose Solvers for Financial Text Analytics? A Study on Several Typical Tasks](https://arxiv.org/abs/2305.05862)
+
+[[Arxiv2024] FinBen: A Holistic Financial Benchmark for Large Language Models](https://arxiv.org/abs/2402.12659)
+
+[[EMNLP2023] FinLMEval: Is ChatGPT a Financial Expert? Evaluating Language Models on Financial NLP](https://arxiv.org/abs/2310.12664)
+
+[[LREC-COLING 2024] Large Language Models as Financial Data Annotators: A Study on Effectiveness and Efficiency](https://arxiv.org/abs/2403.18152)
+
+[[NeurIPS2023] FinGPT: Instruction Tuning Benchmark for Open-Source LLMs in Financial Datasets](https://arxiv.org/abs/2310.04793)
+
+[[Arxiv2024] Evaluating LLMs' Mathematical Reasoning in Financial Document QA](https://arxiv.org/abs/2402.11194)
+
+[[SSRN2024] Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311)
+
+[[SSRN2024] Extracting Financial Data from Unstructured Sources: Leveraging Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4567607)
+
+[[NeurIPS2023] InvestLM: A Large Language Model for Investment Forecasting](https://arxiv.org/abs/2309.13064)
+
 ### Financial time-series forecasting models
 
 [[Arxiv2021] HIST: A Graph-based Framework for Stock Trend Forecasting via Mining Concept-Oriented Shared Information](
