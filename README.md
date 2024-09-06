@@ -2,6 +2,8 @@
 Papers for AI + quantitative investment
 
 
+### LLM for financial data analytics
+
 ### Financial time-series forecasting models
 
 [[Arxiv2021] HIST: A Graph-based Framework for Stock Trend Forecasting via Mining Concept-Oriented Shared Information](
