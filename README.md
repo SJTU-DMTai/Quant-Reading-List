@@ -8,13 +8,11 @@ Papers for AI + quantitative investment
 
 [[EMNLP2023] Are ChatGPT and GPT-4 General-Purpose Solvers for Financial Text Analytics? A Study on Several Typical Tasks](https://arxiv.org/abs/2305.05862)
 
-[[Arxiv2024] FinBen: A Holistic Financial Benchmark for Large Language Models](https://arxiv.org/abs/2402.12659)
-
 [[EMNLP2023] FinLMEval: Is ChatGPT a Financial Expert? Evaluating Language Models on Financial NLP](https://arxiv.org/abs/2310.12664)
 
 [[LREC-COLING 2024] Large Language Models as Financial Data Annotators: A Study on Effectiveness and Efficiency](https://arxiv.org/abs/2403.18152)
 
-[[NeurIPS2023] FinGPT: Instruction Tuning Benchmark for Open-Source LLMs in Financial Datasets](https://arxiv.org/abs/2310.04793)
+[[Arxiv2023] FinGPT: Open-Source Financial Large Language Models](https://arxiv.org/abs/2306.06031)
 
 [[Arxiv2024] Evaluating LLMs' Mathematical Reasoning in Financial Document QA](https://arxiv.org/abs/2402.11194)
 
